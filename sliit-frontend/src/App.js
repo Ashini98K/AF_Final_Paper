@@ -6,6 +6,7 @@ import CreateCourse from "./components/createcourse/createCourse";
 import Courses from "./components/courses/courses";
 import Subjects from "./components/courses/subjects";
 
+//App.js
 function App() {
   return (
     <div>
